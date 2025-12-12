@@ -1,0 +1,42 @@
+HTTrack3.49-4+libhtsjava.so.2 launched on Thu, 11 Dec 2025 18:42:47 at https://interstellar-v3-68n.pages.dev/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://interstellar-v3-68n.pages.dev/ -O "/home/artinrahmanian15/websites/inssterller copy of unbloked" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A100000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:45:18	Error: 	"Not Found" (404) at link https://interstellar-v3-68n.pages.dev/play/emulator/n64/sm64 (from https://interstellar-v3-68n.pages.dev/play)
+18:45:23	Error: 	"Not Found" (404) at link https://interstellar-v3-68n.pages.dev/play/flash/swf/ (from https://interstellar-v3-68n.pages.dev/play/flash/?swf=abobosbigadventure.swf)
+18:45:23	Error: 	"Not Found" (404) at link https://interstellar-v3-68n.pages.dev/play/flash/GET (from https://interstellar-v3-68n.pages.dev/play/flash/?swf=abobosbigadventure.swf)
+18:45:23	Error: 	"Not Found" (404) at link https://interstellar-v3-68n.pages.dev/apps.html (from https://interstellar-v3-68n.pages.dev/assets/math/fractions)
+18:45:23	Error: 	"Not Found" (404) at link https://interstellar-v3-68n.pages.dev/widgetbot.html (from https://interstellar-v3-68n.pages.dev/assets/math/fractions)
+18:45:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://interstellar-v3-68n.pages.dev/js/main.js
+18:45:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://interstellar-v3-68n.pages.dev/js/index.js
+18:45:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://interstellar-v3-68n.pages.dev/assets/js/cookie_consent.js
+18:45:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://interstellar-v3-68n.pages.dev/assets/js/cloaker.js
+18:45:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6840529569014734
+18:45:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://interstellar-v3-68n.pages.dev/media/banners/stars.png
+18:45:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://interstellar-v3-68n.pages.dev/assets/js/galaxy.js
+18:45:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://interstellar-v3-68n.pages.dev/play/emu/gba/Binaries/gb.ico
+18:45:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://interstellar-v3-68n.pages.dev/play/emu/gba/IodineGBA/includes/TypedArrayShim.js
+18:45:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://interstellar-v3-68n.pages.dev/play/emu/gba/IodineGBA/core/DMA.js
+18:45:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://interstellar-v3-68n.pages.dev/play/emu/gba/IodineGBA/core/Memory.js
+18:45:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://interstellar-v3-68n.pages.dev/play/emu/gba/IodineGBA/core/graphics/Renderer.js
+18:45:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://interstellar-v3-68n.pages.dev/play/sm64/sm64.us.f3dex2e.js
+18:45:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://interstellar-v3-68n.pages.dev/play/flash/ruffle.js
+18:45:36	Warning: 	Retry after error -5 (Unable to get server's address: No address associated with hostname) at link https://arc.io/widget.min.js (from https://interstellar-v3-68n.pages.dev/)
+18:45:36	Error: 	"Not Found" (404) at link https://interstellar-v3-68n.pages.dev/rocket-ship.gif (from https://interstellar-v3-68n.pages.dev/)
+18:45:37	Error: 	"Not Found" (404) at link https://interstellar-v3-68n.pages.dev/media/home/background.png (from https://interstellar-v3-68n.pages.dev/play)
+18:45:37	Warning: 	HTML file (7825 bytes) retransferred due to lack of cache: https://interstellar-v3-68n.pages.dev/play/flash/swf/
+18:45:38	Error: 	"Not Found" (404) at link https://interstellar-v3-68n.pages.dev/play/flash/swf/ (from https://interstellar-v3-68n.pages.dev/play/flash/?swf=abobosbigadventure.swf)
+18:45:38	Warning: 	HTML file (7825 bytes) retransferred due to lack of cache: https://interstellar-v3-68n.pages.dev/apps.html
+18:45:39	Error: 	"Not Found" (404) at link https://interstellar-v3-68n.pages.dev/apps.html (from https://interstellar-v3-68n.pages.dev/assets/math/fractions)
+18:45:39	Error: 	"Not Found" (404) at link https://interstellar-v3-68n.pages.dev/img/glyphicons-halflings.png (from https://interstellar-v3-68n.pages.dev/css/bootstrap.min.css)
+18:45:39	Error: 	"Not Found" (404) at link https://interstellar-v3-68n.pages.dev/img/glyphicons-halflings-white.png (from https://interstellar-v3-68n.pages.dev/css/bootstrap.min.css)
+18:45:39	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://arc.io/widget.min.js (from https://interstellar-v3-68n.pages.dev/)
+18:45:39	Error: 	"Not Found" (404) at link https://interstellar-v3-68n.pages.dev/css/bkgrnd2.png (from https://interstellar-v3-68n.pages.dev/css/games.css)
+18:45:39	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://arc.io/widget.min.js (from https://interstellar-v3-68n.pages.dev/)
+
+HTTrack Website Copier/3.49-4 mirror complete in 2 minutes 52 seconds : 295 links scanned, 294 files written (6313475 bytes overall) [2199997 bytes received at 12790 bytes/sec], 5840609 bytes transferred using HTTP compression in 301 files, ratio 24%, 17.8 requests per connection
+(13 errors, 18 warnings, 0 messages)
